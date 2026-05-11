@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @Dhinesh9597
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Dinesh 👋
 
-<!---
-Dhinesh9597/Dhinesh9597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Linux & Cloud Enthusiast
+
+Hands-on with:
+- AWS EC2
+- NGINX
+- WordPress
+- Linux Administration
+
+## Current Focus
+- Server Deployment
+- Linux Administration
+- Cloud Infrastructure
+
+## Projects
+- WordPress Production Server
+- Bastion Host Setup
+- NGINX Configuration
