@@ -1,6 +1,6 @@
-# Hi, I'm Dinesh 👋
+# Hi, I'm Dhinesh 👋
 
-## Linux & Cloud Enthusiast
+## Linux & Cloud Support Engineer | AWS | Bash
 
 Hands-on with:
 - AWS EC2
